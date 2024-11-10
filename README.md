@@ -8,7 +8,7 @@ The purpose of this application is to demonstrate the core functionality of a To
 
 ## Live Demo
 
-You can explore the project online through this [Demo Link](https://your-live-demo-link.netlify.app).
+You can explore the project online through this [Demo Link](https://gleaming-bienenstitch-919656.netlify.app).
 
 ## Features
 
@@ -31,5 +31,5 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yakuperenermurat/todo-app.git
+   git clone https://github.com/yakuperenermurat/To-Do-App.git
 # To-Do-App
